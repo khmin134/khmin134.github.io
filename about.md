@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a student studying computer
+아직 개발자 아님
 * * *
 
 Interests
